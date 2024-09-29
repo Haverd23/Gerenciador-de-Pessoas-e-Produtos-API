@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929225046_AtualizandoProdutoMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240929225046_AtualizandoProdutoMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\migrations\\20240929225046_atualizandoprodutomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:migrations\\20240929225046_atualizandoprodutomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\data\\map\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Data\\Map\\ProdutoMap.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAawBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:46:52.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T22:46:52.686Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Repositorio\\ProdutoRepositorio.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:15:08.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T22:15:08.296Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Repositorio\\PessoaRepositorio.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T22:11:30.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T22:11:30.963Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Data\\Map\\PessoaMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T21:17:43.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T21:17:43.595Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Data\\DbContent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T21:17:40.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T21:17:40.789Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:53:49.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:53:49.129Z"
             },
             {
               "$type": "Document",
