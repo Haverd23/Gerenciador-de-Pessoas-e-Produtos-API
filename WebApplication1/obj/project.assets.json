@@ -4932,11 +4932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",

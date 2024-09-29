@@ -14,7 +14,10 @@ namespace WebApplication1.Data.Map
             builder.Property(x => x.Status).IsRequired();
             builder.Property(x => x.Quantidade).IsRequired().HasMaxLength(5);
             builder.Property(x => x.PessoaId);
-            builder.HasOne(x => x.Pessoa);
+            builder.HasOne(x => x.Pessoa)
+           .WithMany() 
+           .HasForeignKey(x => x.PessoaId)
+           .OnDelete(DeleteBehavior.SetNull); 
         }
     }
-}
+    }

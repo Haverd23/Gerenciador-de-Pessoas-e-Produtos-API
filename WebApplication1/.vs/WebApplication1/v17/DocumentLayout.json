@@ -1,21 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Migrations\\20240929195348_AdcionandoTabelasCEP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240929195348_AdcionandoTabelasCEP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929225046_AtualizandoProdutoMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240929225046_AtualizandoProdutoMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\webapplication1\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\data\\map\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:data\\map\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\data\\map\\pessoamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:data\\map\\pessoamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\migrations\\20240929195348_adcionandotabelascep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:migrations\\20240929195348_adcionandotabelascep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\webapplication1\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\webapplication1\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|c:\\users\\alves\\desktop\\api\\gerenciador-de-pessoas-e-produtos-api\\webapplication1\\models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F0E8A1-C6CA-4C3C-B7A3-B5F335ABE549}|WebApplication1.csproj|solutionrelative:models\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,10 +55,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240929225046_AtualizandoProdutoMap.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929225046_AtualizandoProdutoMap.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240929225046_AtualizandoProdutoMap.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929225046_AtualizandoProdutoMap.cs",
+              "RelativeToolTip": "Migrations\\20240929225046_AtualizandoProdutoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:50:46.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\Map\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\ProdutoMap.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\Map\\ProdutoMap.cs",
+              "RelativeToolTip": "Data\\Map\\ProdutoMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:46:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:15:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\PessoaRepositorio.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\PessoaRepositorio.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:11:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaMap.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\Map\\PessoaMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\PessoaMap.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\Map\\PessoaMap.cs",
+              "RelativeToolTip": "Data\\Map\\PessoaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:17:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContent.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\DbContent.cs",
+              "RelativeDocumentMoniker": "Data\\DbContent.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Data\\DbContent.cs",
+              "RelativeToolTip": "Data\\DbContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:17:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20240929195348_AdcionandoTabelasCEP.cs",
-              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
               "RelativeDocumentMoniker": "Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
-              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
               "RelativeToolTip": "Migrations\\20240929195348_AdcionandoTabelasCEP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,42 +145,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ViaCepResponse.cs",
-              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Integracao\\Response\\ViaCepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Integracao\\Response\\ViaCepResponse.cs",
               "RelativeDocumentMoniker": "Integracao\\Response\\ViaCepResponse.cs",
-              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Integracao\\Response\\ViaCepResponse.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Integracao\\Response\\ViaCepResponse.cs",
               "RelativeToolTip": "Integracao\\Response\\ViaCepResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:51:10.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:51:10.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "PessoaModel.cs",
-              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Models\\PessoaModel.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Models\\PessoaModel.cs",
               "RelativeDocumentMoniker": "Models\\PessoaModel.cs",
-              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Models\\PessoaModel.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Models\\PessoaModel.cs",
               "RelativeToolTip": "Models\\PessoaModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:50:41.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:50:41.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PessoaController.cs",
-              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Controllers\\PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Controllers\\PessoaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PessoaController.cs",
-              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\WebApplication1\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\alves\\Desktop\\API\\Gerenciador-de-Pessoas-e-Produtos-API\\WebApplication1\\Controllers\\PessoaController.cs",
               "RelativeToolTip": "Controllers\\PessoaController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T19:43:30.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:43:30.561Z"
             }
           ]
         }
